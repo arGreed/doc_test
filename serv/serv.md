@@ -1,0 +1,2 @@
+- [💰 Выручка](revenue_params.md)
+- [🧮 Средний чек](revenue_params.md)
