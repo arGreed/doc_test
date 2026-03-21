@@ -1,2 +1,2 @@
-- [💰 Выручка](revenue_params.md)
-- [🧮 Средний чек](revenue_params.md)
+- [Работа колл центра](call.md)
+- [Доходимость](cr.md)
